@@ -1,10 +1,9 @@
 import { Link } from "react-router-dom";
-import Card from "../../components/card";
+import CardMarcas from "../../components/CardMarcas";
 import Navbar2 from "../../components/Navbar2";
 import "boxicons";
 import CardProductos from "../../components/CardProductos";
 import Footer from "../../components/Footer";
-
 
 export default function Bebidas (){
     return(
